@@ -2,15 +2,17 @@ import React from "react";
 import logo from "./img/collabcode.svg";
 import "./App.css";
 
-function App() {
+const App = () => {
   return (
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <span className="About">Sobre</span>
+        <a href="#" className="About">
+          Sobre
+        </a>
       </header>
     </div>
   );
-}
+};
 
 export default App;

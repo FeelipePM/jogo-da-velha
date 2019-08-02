@@ -26,9 +26,8 @@
 
 .About {
   text-transform: uppercase;
-  font-size: 14px;
+  font: bold 14px "Montserrat", sans-serif;
   color: #707070;
-  font-weight: bold;
-  font-family: "Montserrat", sans-serif;
   margin-left: 20px;
+  text-decoration: none;
 }
