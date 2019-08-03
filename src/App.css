@@ -27,6 +27,6 @@
 .About {
   text-transform: uppercase;
   font: bold 14px "Montserrat", sans-serif;
-  color: #707070;
+  color: var(--color-negative);
   margin-left: 20px;
 }
