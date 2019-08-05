@@ -11,7 +11,6 @@
 }
 
 .App-header {
-  background-color: #282c34;
   min-height: 100vh;
   display: flex;
   align-items: center;
@@ -26,7 +25,8 @@
 
 .About {
   text-transform: uppercase;
-  font: bold 14px "Montserrat", sans-serif;
-  color: var(--color-negative);
+  font-weight: bold;
+  font-size: 14px;
+  color: var(--color-fourth);
   margin-left: 20px;
 }

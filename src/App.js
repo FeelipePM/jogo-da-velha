@@ -1,6 +1,4 @@
 import React from "react";
-import "./elements/base.css";
-import "./settings/color.css";
 import logo from "./img/collabcode.svg";
 import "./App.css";
 
