@@ -1,4 +1,5 @@
 import React from "react";
+import About from "./objects/About/index.js";
 import logo from "./img/collabcode.svg";
 import "./App.css";
 
@@ -7,9 +8,7 @@ const App = () => {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <a href="index.html" className="About">
-          Sobre
-        </a>
+        <About>Felipe</About>
       </header>
     </div>
   );

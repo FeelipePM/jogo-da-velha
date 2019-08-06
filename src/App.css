@@ -22,11 +22,3 @@
 .App-link {
   color: #61dafb;
 }
-
-.About {
-  text-transform: uppercase;
-  font-weight: bold;
-  font-size: 14px;
-  color: var(--color-fourth);
-  margin-left: 20px;
-}
