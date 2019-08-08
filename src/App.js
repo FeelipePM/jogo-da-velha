@@ -1,17 +1,9 @@
 import React from "react";
-import About from "./objects/About/index.js";
-import logo from "./img/collabcode.svg";
-import "./App.css";
+
+import Header from "./components/Header/index.js";
 
 const App = () => {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <About>Felipe</About>
-      </header>
-    </div>
-  );
+  return <Header />;
 };
 
 export default App;
