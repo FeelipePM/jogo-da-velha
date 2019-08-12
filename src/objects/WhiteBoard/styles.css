@@ -1,0 +1,6 @@
+.white-board {
+  width: 290px;
+  height: 290px;
+  background-color: var(--color-zero);
+  border-radius: 5px;
+}
