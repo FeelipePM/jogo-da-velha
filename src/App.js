@@ -1,13 +1,13 @@
 import React from "react";
 
 import Header from "./components/Header/index.js";
-import WhiteBoard from "./objects/WhiteBoard/index.js";
+import Card from "./objects/Card/index.js";
 
 const App = () => {
   return (
     <>
       <Header />
-      <WhiteBoard />
+      <Card />
     </>
   );
 };

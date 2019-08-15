@@ -4,7 +4,7 @@ import Table from "../Table/index.js";
 
 import "./styles.css";
 
-const Whiteboard = () => {
+const Card = () => {
   return (
     <div className="white-board">
       <Table />
@@ -12,4 +12,4 @@ const Whiteboard = () => {
   );
 };
 
-export default Whiteboard;
+export default Card;
