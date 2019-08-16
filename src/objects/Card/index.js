@@ -6,9 +6,9 @@ import "./styles.css";
 
 const Card = () => {
   return (
-    <div className="white-board">
+    <article className="card">
       <Table />
-    </div>
+    </article>
   );
 };
 
