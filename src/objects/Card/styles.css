@@ -1,10 +1,10 @@
-.white-board {
+.card {
   width: 290px;
   height: 290px;
   margin: 0 auto;
   background-color: var(--color-zero);
-  border-radius: 5px;
+  border-radius: var(--spacing-radius);
   padding: 15px;
   box-sizing: border-box; 
-   box-shadow: 0 3px 6px 0 var(--color-nagetive-shadow);
+  box-shadow: 0 3px 6px 0 var(--color-negative-shadow);
 }

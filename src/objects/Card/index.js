@@ -4,12 +4,12 @@ import Table from "../Table/index.js";
 
 import "./styles.css";
 
-const Whiteboard = () => {
+const Card = () => {
   return (
-    <div className="white-board">
+    <article className="card">
       <Table />
-    </div>
+    </article>
   );
 };
 
-export default Whiteboard;
+export default Card;
